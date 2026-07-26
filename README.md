@@ -43,6 +43,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepseek.svg" height="60" alt="circleci logo"  />
   <img width="12" />
+  
+  <div>
+<h3 align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3czF5N3U1NWtiYnAxdG9ydGhsd2dtaDVzcGY1OHV0MHdnZ3phZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlcIBNopQj8Yx5QgpR/giphy.gif" width="55" alt="Loading..." />
+  Weiterbildung in Cloud Engineer / Solutions Architect / DevOps
+</h3>
+    <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  </div>
+
 </div>
 
 ###
