@@ -57,15 +57,77 @@
 </a>
 </div>
 
+```typescript
+class SDET {
+  readonly name = "M.Rauf Qureshi";
+  readonly role = "Test Automation Engineer";
+  readonly frameworks = ["Playwright", "Cypress", "WebDriverIO","TypeScript","Javascript"];
+  readonly languages = ["en-US", "de-DE", "ur-PK", "hi-IN"];
+  readonly expertise = [
+    "UI Automation",
+    "API Testing",
+    "Cross-browser Testing",
+    "Test Strategy",
+    "CI/CD Integration",
+    "Quality Engineering",
+    "AWS Cloud Enginnering"
+  ];
+  readonly goal = "Build reliable automation architecture that enables teams to ship with confidence.";
+
+  sayHi(): string {
+    return "Thanks for stopping by! I hope you enjoy exploring my work and passion for quality & cloud engineering.";
+  }
+}
+
+let me: SDET;
+
+test.beforeEach(async () => {
+  me = new SDET();
+  console.log("🧪 Loading 11+ yrs of Testing Experience");
+  console.log("👨‍🎓 Loading Master's Degress in Web Science..");
+  console.log("👨‍💻 Load last position: SQA Manager at Mercedes-Benz");
+});
+
+test.afterEach(async () => {
+  const linkedIn =
+  "https://www.linkedin.com/in/mohammad-rauf-qureshi-9b848052/details/recommendations/?detailScreenTabIndex=0";
+  console.log(`💬 Recommendations: ${linkedIn}`);
+});
+
+test.describe("Professional Experience", () => {
+  test("should describe my QA background", async () => {
+    expect(me.role).toBe("QA Automation Engineer");
+
+    expect(me.frameworks).toContain("Playwright");
+    expect(me.frameworks).toContain("Cypress");
+    expect(me.frameworks).toContain("WebDriverIO");
+
+    expect(me.expertise).toEqual(
+      expect.arrayContaining([
+        "UI Automation",
+        "API Testing",
+        "Cross-browser Testing",
+        "Test Strategy",
+        "CI/CD Integration",
+        "Quality Engineering",
+        "AWS Cloud Enginnering"
+      ])
+    );
+
+    expect(me.sayHi()).toContain("Thanks for stopping by");
+  });
+});
+```
+
 ###
 
 ✨ Since 2012 I have finding bugs, fixing them, automating them. I’ve led teams, supported customers, built test strategies, migrated frameworks and made frontend/backend developer friends with great success.
 
 ✍️ Lately I have not committed anything but feel free to review my repositories.
 
-🎲 Random stuff : Click [here](https://github.com/M-R-Qureshi?tab=overview&from=2022-12-01&to=2022-12-31) to check a company project I worked on.
+→ Present: In progress with Weiterbildung in Cloud Engineering, Solutions Architect, DevOps with neue-fische 🐠
 
-🔭  I’m currently working on something related to AI and Vibe coding 😉
+🎲 Random stuff : Click [here](https://github.com/M-R-Qureshi?tab=overview&from=2022-12-01&to=2022-12-31) to check a company project I worked on.
 
 
 <details>
