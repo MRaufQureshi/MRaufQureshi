@@ -78,13 +78,15 @@ class SDET {
   readonly frameworks = ["Playwright", "Cypress", "WebDriverIO","TypeScript","Javascript"];
   readonly languages = ["en-US", "de-DE", "ur-PK", "hi-IN"];
   readonly expertise = [
+    "AWS Cloud Enginnering"
+    "Solution Architect"
+    "DevOps"
     "UI Automation",
     "API Testing",
     "Cross-browser Testing",
     "Test Strategy",
     "CI/CD Integration",
     "Quality Engineering",
-    "AWS Cloud Enginnering"
   ];
   readonly goal = "Build reliable automation architecture that enables teams to ship with confidence.";
 
@@ -118,13 +120,15 @@ test.describe("Professional Experience", () => {
 
     expect(me.expertise).toEqual(
       expect.arrayContaining([
+        "AWS Cloud Enginnering"
+        "Solution Architect"
+        "DevOps"
         "UI Automation",
         "API Testing",
         "Cross-browser Testing",
         "Test Strategy",
         "CI/CD Integration",
         "Quality Engineering",
-        "AWS Cloud Enginnering"
       ])
     );
 
