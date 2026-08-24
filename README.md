@@ -7,8 +7,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="60" alt="playwright logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="cypress logo"  />
@@ -54,6 +52,10 @@
     <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="ansible logo"  />
   <img width="12" />
   </div>
 
