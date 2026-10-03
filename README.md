@@ -153,10 +153,17 @@ test.describe("Professional Experience", () => {
 
 <details>
 
-<img width="600" alt="XXX" src="https://www.monkeyuser.com/2022/unit-tests/248-unit-tests.png" class="center">
+<img width="600" src="https://www.monkeyuser.com/2022/unit-tests/248-unit-tests.png">
 </details>
 
 
 <p align="right-align">
   <img src="https://komarev.com/ghpvc/?username=MRaufQureshi&label=Visitors&color=14b8a6&style=flat-square" />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MRaufQureshi.MRaufQureshi&left_text=Visitors&left_color=555555&right_color=14b8a6" alt="Visitors" />
+  
 </p>
+
+
+
+
