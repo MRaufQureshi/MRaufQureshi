@@ -37,7 +37,7 @@
   <div>
 <h3 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3czF5N3U1NWtiYnAxdG9ydGhsd2dtaDVzcGY1OHV0MHdnZ3phZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlcIBNopQj8Yx5QgpR/giphy.gif" width="55" alt="Loading..." />
-  Professional Development (Weiterbildung) in Cloud Engineer / Solutions Architect / DevOps
+  Professional Development (Weiterbildung) in Cloud Engineer / DevOps / Platform Engineer
 </h3>
     <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
