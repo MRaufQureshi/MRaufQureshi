@@ -21,8 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/CircleCI.png" height="50" alt="circleci logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="50" alt="chatgpt logo"  />
@@ -50,6 +48,8 @@
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="12" />
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
@@ -60,7 +60,11 @@
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="grafana logo"  />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=npm" height="60" alt="prometheus logo"  />
   <img width="12" />
   </div>
 
