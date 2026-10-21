@@ -23,21 +23,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/CircleCI.png" height="60" alt="circleci logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/CircleCI.png" height="50" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="60" alt="chatgpt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="50" alt="chatgpt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="60" alt="claude-ai logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="50" alt="claude-ai logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grok.svg" height="60" alt="grok logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepseek.svg" height="60" alt="deepseek logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepseek.svg" height="50" alt="deepseek logo"  />
   <img width="12" />
   
   <div>
 <h3 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3czF5N3U1NWtiYnAxdG9ydGhsd2dtaDVzcGY1OHV0MHdnZ3phZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlcIBNopQj8Yx5QgpR/giphy.gif" width="55" alt="Loading..." />
-  Professional Development (Weiterbildung) in Cloud Engineer / DevOps / Platform Engineer
+  
+  <a href="https://github.com/MRaufQureshi/cloud-platform-engineering">
+    Professional Development (Weiterbildung) in Cloud Engineer / DevOps
+  </a>
 </h3>
     <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
