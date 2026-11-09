@@ -34,12 +34,15 @@
   
   <div>
 <h3 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3czF5N3U1NWtiYnAxdG9ydGhsd2dtaDVzcGY1OHV0MHdnZ3phZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zlcIBNopQj8Yx5QgpR/giphy.gif" width="55" alt="Loading..." />
-  
-  <a href="https://github.com/MRaufQureshi/cloud-platform-engineering">
-    Professional Development (Weiterbildung) in Cloud Engineer / DevOps
+  <a href="https://eu.credential.net/66b47bdf-2bde-4e87-a12d-8f808c463364#acc.M3PLAyBC">
+    Certified AWS Cloud Engineer / DevOps
   </a>
 </h3>
+<h4 align="center">
+  <a href="https://github.com/MRaufQureshi/cloud-platform-engineering">
+    Production grade contribution
+  </a>
+</h4>
     <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
@@ -86,13 +89,13 @@
 class CE_DevOp_SDET {
   readonly name = "M.Rauf Qureshi";
   readonly role = "Cloud Engineer / Test Automation Engineer";
+  readonly IaC = ["AWS Web Services", "Terraform", "Ansible", "Docker", "K8", "Many more..."];
   readonly frameworks = ["Playwright", "Cypress", "WebDriverIO"];
   readonly languages = ["en-US", "de-DE", "ur-PK", "hi-IN"];
   readonly expertise = [
-    "AWS Cloud Enginnering"
+    "Certified AWS Cloud Engineer"
     "DevOps"
     "Platform Engineer"
-    "Solution Architect"
     "UI Automation",
     "API Testing",
     "Cross-browser Testing",
@@ -111,8 +114,9 @@ let me: CE_DevOp_SDET;
 
 test.beforeEach(async () => {
   me = new CE_DevOp_SDET();
-  console.log("🧪 Loading 11+ yrs of Testing Experience");
-  console.log("👨‍🎓 Loading Master's Degress in Web Science..");
+  console.log("🧪 Loading 11+ yrs of Testing Experience...");
+  console.log("👨‍🎓 Loading Master's Degree in Web Science...");
+  console.log("👨‍💻 Loading Cloud/DevOps Engineering Experience...");
   console.log("👨‍💻 Load last position: SQA Manager at Mercedes-Benz");
 });
 
@@ -125,6 +129,7 @@ test.afterEach(async () => {
 test.describe("Professional Experience", () => {
   test("should describe my background", async () => {
     expect(me.role).toBe("Cloud Engineer / Test Automation Engineer");
+    expect(me.IaC).toEqual(expect.arrayContaining(["AWS Web Services", "Terraform", "Ansible", "Docker", "K8", "Many more..."]));
 
     expect(me.frameworks).toContain("Playwright");
     expect(me.frameworks).toContain("Cypress");
@@ -132,10 +137,9 @@ test.describe("Professional Experience", () => {
 
     expect(me.expertise).toEqual(
       expect.arrayContaining([
-        "AWS Cloud Enginnering"
+        "Certified AWS Cloud Engineer"
         "DevOps"
         "Platform Engineer"
-        "Solution Architect"
         "UI Automation",
         "API Testing",
         "Cross-browser Testing",
@@ -157,6 +161,7 @@ test.describe("Professional Experience", () => {
 → Present: In progress with Professional Development - Weiterbildung in Cloud Engineering, DevOps with neue-fische 🐠
 
 🎲 Random stuff : Click [here](https://github.com/M-R-Qureshi?tab=overview&from=2022-12-01&to=2022-12-31) to check a company project I worked on.
+Click [here](https://github.com/MRaufQureshi/cloud-platform-engineering) to check a capstone project I worked on.
 
 <details>
 
